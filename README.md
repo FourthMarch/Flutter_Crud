@@ -1,16 +1,20 @@
-# flutter_application_1
+# PEMOGRAMAN MOBILE 7A2 
 
-A new Flutter project.
+*A new Flutter project.*
 
-## Getting Started
+**Nama Project** : CRUD Flutter with Sqlite
 
-This project is a starting point for a Flutter application.
+**Nama** : Dimas Hammam Abdillah
 
-A few resources to get you started if this is your first Flutter project:
+**NIM** : 221080200048
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots  
+![Read](https://github.com/FourthMarch/Flutter_Crud/blob/main/CRUD_Flutter%20(1).jpg)
+![Create](https://github.com/FourthMarch/Flutter_Crud/blob/main/CRUD_Flutter%20(4).jpg)
+![Create](https://github.com/FourthMarch/Flutter_Crud/blob/main/CRUD_Flutter%20(3).jpg)
+![Create](https://github.com/FourthMarch/Flutter_Crud/blob/main/CRUD_Flutter%20(2).jpg)
+
+
+---
